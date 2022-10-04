@@ -1,0 +1,2 @@
+F:\secrietProject\SecrietProject\ProjectFile\ProjectFile\obj\Debug\ProjectFile.njsproj.CoreCompileInputs.cache
+F:\secrietProject\SecrietProject\ProjectFile\ProjectFile\bin\Microsoft.NodejsTools.WebRole.dll
